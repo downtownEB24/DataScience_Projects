@@ -1,0 +1,6 @@
+AI_textImage_Proj/Datasets filter=lfs diff=lfs merge=lfs -text
+AI_textImage_Proj/FinalProject.py filter=lfs diff=lfs merge=lfs -text
+AI_textImage_Proj/Model filter=lfs diff=lfs merge=lfs -text
+AI_textImage_Proj/RachelBrooks-EricBrown-ClaudioMema.pptx filter=lfs diff=lfs merge=lfs -text
+AI_textImage_Proj/Readme.txt filter=lfs diff=lfs merge=lfs -text
+AI_textImage_Proj/User_FormatedDatasets filter=lfs diff=lfs merge=lfs -text
